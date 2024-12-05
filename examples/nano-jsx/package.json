@@ -5,6 +5,9 @@
     "dev": "nitro dev",
     "build": "nitro build"
   },
+  "dependencies": {
+    "@zedux/react": "1.2.3"
+  },
   "devDependencies": {
     "nano-jsx": "^0.0.37",
     "nitropack": "latest"
